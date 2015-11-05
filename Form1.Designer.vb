@@ -34,6 +34,7 @@ Partial Class Form1
         Me.btnCost = New System.Windows.Forms.Button()
         Me.btnExit = New System.Windows.Forms.Button()
         Me.btnClear = New System.Windows.Forms.Button()
+        Me.Label4 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -132,6 +133,14 @@ Partial Class Form1
         Me.btnClear.Text = "Clear Fields"
         Me.btnClear.UseVisualStyleBackColor = True
         '
+        'Label4
+        '
+        Me.Label4.AutoSize = True
+        Me.Label4.Location = New System.Drawing.Point(179, 292)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(0, 13)
+        Me.Label4.TabIndex = 8
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -139,6 +148,7 @@ Partial Class Form1
         Me.BackColor = System.Drawing.Color.White
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.ClientSize = New System.Drawing.Size(375, 349)
+        Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.btnClear)
         Me.Controls.Add(Me.btnExit)
         Me.Controls.Add(Me.btnCost)
@@ -173,5 +183,6 @@ Partial Class Form1
     Friend WithEvents btnCost As System.Windows.Forms.Button
     Friend WithEvents btnExit As System.Windows.Forms.Button
     Friend WithEvents btnClear As System.Windows.Forms.Button
+    Friend WithEvents Label4 As System.Windows.Forms.Label
 
 End Class

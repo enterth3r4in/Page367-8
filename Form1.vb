@@ -22,6 +22,6 @@
     End Sub
 
     Private Sub btnCost_Click(sender As Object, e As EventArgs) Handles btnCost.Click
-        Label5.Text = busfares(0, 2)
+        Label4.Text = busfares(0, 2)
     End Sub
 End Class
