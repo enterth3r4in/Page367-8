@@ -1,0 +1,8 @@
+C:\Users\as600\Documents\GitHub\Page367-8\Page367-8\bin\Debug\Page367-8.exe.config
+C:\Users\as600\Documents\GitHub\Page367-8\Page367-8\bin\Debug\Page367-8.exe
+C:\Users\as600\Documents\GitHub\Page367-8\Page367-8\obj\Debug\Page367_8.Form1.resources
+C:\Users\as600\Documents\GitHub\Page367-8\Page367-8\obj\Debug\Page367_8.Resources.resources
+C:\Users\as600\Documents\GitHub\Page367-8\Page367-8\obj\Debug\Page367-8.vbproj.GenerateResource.Cache
+C:\Users\as600\Documents\GitHub\Page367-8\Page367-8\obj\Debug\Page367-8.exe
+C:\Users\as600\Documents\GitHub\Page367-8\Page367-8\obj\Debug\Page367-8.xml
+C:\Users\as600\Documents\GitHub\Page367-8\Page367-8\obj\Debug\Page367-8.pdb
